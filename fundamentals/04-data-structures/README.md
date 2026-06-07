@@ -19,6 +19,10 @@
 
 - [复杂度与结构对照表](references/complexity-cheatsheet.md)
 
+## C++ 实现参考
+
+学完 [languages/cpp/](../../languages/cpp/) 后，可用 STL 容器（`vector`、`list`、`map` 等）实现本章数据结构。
+
 ## 练习
 
 见 [exercises/](exercises/)

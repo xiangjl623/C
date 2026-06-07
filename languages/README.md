@@ -7,18 +7,20 @@
 | 目标 | 推荐语言 | 入口 |
 |------|----------|------|
 | 理解底层、备考期末 | C | [c/](c/) |
+| C 基础上进阶、OOP/STL | C++ | [cpp/](cpp/) |
 | 快速上手、数据分析 | Python | 计划中 |
 | Web 全栈 | JavaScript | 计划中 |
 | 企业后端 | Java | 计划中 |
 | 云原生 / 基础设施 | Go | 计划中 |
 
-**建议路径**：C 语言打基础 → 任选一门高级语言深入 → 按岗位补专项语言。
+**建议路径**：C 语言打基础 → [C++](cpp/) 或任选一门高级语言深入 → 按岗位补专项语言。
 
 ## 已发布语言
 
 | 语言 | 教程 | 速查 | 示例 | 考试 |
 |------|------|------|------|------|
 | C | [guides](c/guides/) | [references](c/references/) | [examples](c/examples/) | [exams](c/exams/) |
+| C++ | [guides](cpp/guides/) | [references](cpp/references/) | [examples](cpp/examples/) | [exams](cpp/exams/) |
 
 ## 新增语言
 

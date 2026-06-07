@@ -21,15 +21,18 @@
 ```mermaid
 flowchart LR
     A[fundamentals] --> B[languages/c]
-    B --> C[engineering]
+    B --> B2[languages/cpp]
+    B2 --> C[engineering]
+    B --> C
     B --> D[certifications]
     C --> E[career]
     D --> E
 ```
 
 1. **零基础**：从 [languages/c/](languages/c/) 入门，配合 [fundamentals/04-data-structures/](fundamentals/04-data-structures/) 理解基础概念
-2. **备考 C 语言期末**： [certifications/university/c-language/](certifications/university/c-language/) → [languages/c/exams/](languages/c/exams/)
-3. **在职提升**： [engineering/01-git-and-collaboration/](engineering/01-git-and-collaboration/) + [engineering/02-linux-and-shell/](engineering/02-linux-and-shell/)
+2. **C 基础上进阶**：完成 C 核心语法后进入 [languages/cpp/](languages/cpp/)，学习面向对象与 STL
+3. **备考 C 语言期末**： [certifications/university/c-language/](certifications/university/c-language/) → [languages/c/exams/](languages/c/exams/)
+4. **在职提升**： [engineering/01-git-and-collaboration/](engineering/01-git-and-collaboration/) + [engineering/02-linux-and-shell/](engineering/02-linux-and-shell/)
 
 ## 当前内容
 
@@ -38,6 +41,9 @@ flowchart LR
 | C 语言教程（15 篇） | 已发布 | [languages/c/](languages/c/) |
 | C 语言速查（14 篇） | 已发布 | [languages/c/references/](languages/c/references/) |
 | C 语言期末考试题库 | 已发布 | [languages/c/exams/](languages/c/exams/) |
+| C++ 教程（15 篇） | 已发布 | [languages/cpp/](languages/cpp/) |
+| C++ 速查（14 主题） | 已发布 | [languages/cpp/references/](languages/cpp/references/) |
+| C++ 期末考试题库 | 已发布 | [languages/cpp/exams/](languages/cpp/exams/) |
 | 数据结构入门 | 首批发布 | [fundamentals/04-data-structures/](fundamentals/04-data-structures/) |
 | Git 与协作 | 首批发布 | [engineering/01-git-and-collaboration/](engineering/01-git-and-collaboration/) |
 | Linux 与 Shell | 首批发布 | [engineering/02-linux-and-shell/](engineering/02-linux-and-shell/) |
